@@ -1,0 +1,76 @@
+
+body{
+    background-image: url(https://i.pinimg.com/originals/d2/04/04/d2040481acb4e8ef45680953fa5523b6.jpg);
+}
+.listt{
+    
+    margin-top: 10px;
+    box-sizing: border-box;
+    float:right;
+   padding-right: 500px;
+   word-spacing: 75px;
+}
+.aa{
+    color: white;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: normal;
+  }
+.aa:hover{
+    color: red;
+}
+h2{
+    font-size: 30px;
+    color: white;
+    font-weight: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#aaa{
+    font-size: 20px;
+    color: blue;
+}
+.aa:link{
+    text-decoration: none;
+}
+#aaa:link{
+    text-decoration: none;
+}
+#aaa:hover{
+    text-decoration: underline;
+}
+#two{
+    padding-right: 20px;
+    padding-left: 20px;
+}
+#MA{
+    font-size: 30px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+}
+.img{
+    padding-right:15px;
+    padding-left:15px;
+    height: 250px;
+}
+.Courses{
+    background-image:url("35.jpg");
+    padding: 200px;
+    font-size: 80px;
+    text-shadow: 2px 3px red;
+    margin-top: 10px;
+}
+#submit{
+    background-color: royalblue;
+    border-color: royalblue;
+    color: white;
+}
+label{
+    font-size: 15px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+
+}
+
+
